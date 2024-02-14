@@ -4,3 +4,11 @@ git --version - check whether git is installed
 git config --global user.email "mentalyeti@aol.com"
 
 GIT repository = project
+
+git init = initialises emptpy Git repository in your project folder
+
+git add -A = get files in your project prepared ready to commit. -A = All 
+
+git commit -m 'message here' - backs up project in current state
+
+ git checkout -- . = retrieves backed up version from Git folder
