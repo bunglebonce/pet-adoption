@@ -14,5 +14,7 @@ git commit -m 'message here' - backs up project in current state
  git checkout -- . = retrieves backed up version from Git folder
 
  git status = shows changed files
+ 
+ git remote add origin git@github.com:bunglebonce/pet-adoption.git
 
  git push  = 
