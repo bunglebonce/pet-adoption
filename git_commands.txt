@@ -1,0 +1,6 @@
+git --version - check whether git is installed
+
+ git config --global user.name "Dave"
+git config --global user.email "mentalyeti@aol.com"
+
+GIT repository = project
