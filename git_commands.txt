@@ -17,4 +17,7 @@ git commit -m 'message here' - backs up project in current state
  
  git remote add origin git@github.com:bunglebonce/pet-adoption.git
 
+ git clone git@github.com:bunglebonce/pet-adoption.git = load project files from Git to your laptop.
+Great if you have accidentally deleted your project from your computer, or hardware failure etc.
+
  git push origin master  = puts your project up on the Git Servers 
