@@ -12,3 +12,7 @@ git add -A = get files in your project prepared ready to commit. -A = All
 git commit -m 'message here' - backs up project in current state
 
  git checkout -- . = retrieves backed up version from Git folder
+
+ git status = shows changed files
+
+ git push  = 
