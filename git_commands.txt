@@ -21,3 +21,5 @@ git commit -m 'message here' - backs up project in current state
 Great if you have accidentally deleted your project from your computer, or hardware failure etc.
 
  git push origin master  = puts your project up on the Git Servers 
+
+ git pull origin master = updates your local project with changes made on Git Server
