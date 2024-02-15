@@ -23,3 +23,5 @@ Great if you have accidentally deleted your project from your computer, or hardw
  git push origin master  = puts your project up on the Git Servers 
 
  git pull origin master = updates your local project with changes made on Git Server
+
+ git checkout branch-name = switches between your branches
