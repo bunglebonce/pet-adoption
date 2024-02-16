@@ -25,3 +25,5 @@ Great if you have accidentally deleted your project from your computer, or hardw
  git pull origin master = updates your local project with changes made on Git Server
 
  git checkout branch-name = switches between your branches
+
+ git merge --no-ff select-type-of-pet-code
